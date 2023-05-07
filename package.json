@@ -1,0 +1,20 @@
+{
+  "name": "js3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rounak-100/WebPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rounak-100/WebPractice/issues"
+  },
+  "homepage": "https://github.com/Rounak-100/WebPractice#readme"
+}
